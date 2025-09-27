@@ -28,19 +28,19 @@ const API_SITES = {
       },
     ttzy2: {
         api: 'https://www.bugutv.org',
-        name: '电影天堂资源',
+        name: '布谷tv资源',
      },
    dyzy3: {
         api: 'http://xuexizhinan.com',
-        name: '电影天堂资源',
+        name: '学习指南资源',
      },
     dzy4: {
         api: 'http://http://languangdy.com',
-        name: '电影天堂资源',
+        name: '蓝光电影资源',
      },
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '电影天堂资源',
+        name: '采集资源',
         detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
